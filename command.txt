@@ -1,6 +1,6 @@
 user: Janek-74732431
 cmd: find
-xdir: D:\\OLD OJOJOJ\\
+xdir: D:\\OLD OJOJOJ\\win\\
 arg: .txt
 
 
