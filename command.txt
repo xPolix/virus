@@ -1,6 +1,6 @@
 user: Janek-74732431
-cmd: find
-xdir: C:\\users\\Janek\\Documents\\
+cmd: get
+xdir: C:\\users\\Janek\\Documents\\bartek KEKW.txt
 arg: .txt
 
 
