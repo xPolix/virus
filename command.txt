@@ -1,0 +1,16 @@
+user: Janek-48436311
+cmd: find
+xdir: C:\\
+arg: .txt
+
+
+https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg
+
+
+
+
+!exampless
+user: <user-number>
+cmd: <find/find_error/get/size/download>
+xdir: <directory_to>
+arg: <name_of_the_fole or *.png>
