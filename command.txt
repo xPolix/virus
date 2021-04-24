@@ -1,4 +1,4 @@
-user: Janek-48436311
+user: Janek-74732431
 cmd: find
 xdir: C:\\
 arg: .txt
