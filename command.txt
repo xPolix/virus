@@ -1,7 +1,7 @@
 user: Janek-74732431
-cmd: find
-xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\123\\PlikiX\\Rooxie\\
-arg: .mp4
+cmd: get
+xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\123\\PlikiX\\Rooxie\\USER_SCOPED_TEMP_DATA_orca-image--460318993.jpeg
+arg: .jpeg
 
 
 https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg
