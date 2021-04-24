@@ -1,7 +1,7 @@
 user: Janek-74732431
 cmd: download
-xdir: C:\\users\\Janek\\desktop\\viurs.jpg
-arg: https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg
+xdir: C:\\users\\Janek\\
+arg: .txt
 
 
 https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg
