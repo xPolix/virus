@@ -1,6 +1,6 @@
 user: Janek-74732431
 cmd: get
-xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\123\\PlikiX\\Rooxie\\image0-3.jpg
+xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\123\\PlikiX\\Rooxie\\FB_IMG_1596287022700.jpg
 arg: .jpg
 
 
