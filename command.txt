@@ -1,6 +1,6 @@
 user: Janek-74732431
 cmd: find
-xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\
+xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\123\\
 arg: .txt
 
 
