@@ -1,6 +1,6 @@
 user: Janek-74732431
 cmd: find
-xdir: C:\\
+xdir: C:\\users\\
 arg: .txt
 
 
