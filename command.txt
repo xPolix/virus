@@ -1,5 +1,5 @@
 user: Janek-74732431
-cmd: download
+cmd: find
 xdir: C:\\users\\Janek\\
 arg: .txt
 
