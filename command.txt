@@ -4,7 +4,7 @@ xdir: D:\\OLD OJOJOJ\\win\\obrazyk\\Saved Pictures\\Camera Roll\\123\\PlikiX\\Ro
 arg: .jpg
 
 
-https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg 
 
 
 
