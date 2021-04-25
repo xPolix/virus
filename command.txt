@@ -1,6 +1,6 @@
 user: Janek-74732431
-cmd: get
-xdir: C:\\users\\Janek\\Desktop\\Cyberpunk 2077.url
+cmd: find
+xdir: D:\\
 arg: .url
 
 
