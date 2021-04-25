@@ -1,6 +1,6 @@
 user: Janek-74732431
 cmd: find
-xdir: D:\\Zadania-szkola-elearning\\
+xdir: D:\\Zadania-szkola-elearning\\ang\\
 arg: .url
 
 
