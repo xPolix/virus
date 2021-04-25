@@ -1,7 +1,7 @@
 user: Janek-74732431
-cmd: find
-xdir: C:\\users\\Janek\\Desktop\\
-arg: .jpg
+cmd: get
+xdir: C:\\users\\Janek\\Desktop\\Cyberpunk 2077.url
+arg: .url
 
 
 https://upload.wikimedia.org/wikipedia/commons/7/71/Calico_tabby_cat_-_Savannah.jpg 
