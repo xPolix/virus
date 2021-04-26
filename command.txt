@@ -1,6 +1,6 @@
 user: Janek-74732431
-cmd: get
-xdir: D:\\Zadania-szkola-elearning\\ang\\zadanie_XD.txt
+cmd: find
+xdir: D:\\
 arg: .txt
 
 
