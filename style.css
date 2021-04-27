@@ -1,10 +1,6 @@
  body {
       background-color: #4dd2ff;
 }
-.center {
-      text-align: center;
-      border: 5px solid green;
-}
 div.fixed {
     position: fixed;
     top: 5px;
